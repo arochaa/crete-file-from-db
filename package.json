@@ -1,0 +1,25 @@
+{
+  "name": "app-create-arkive",
+  "version": "1.0.0",
+  "description": "App para gerar arquivos para teste integrado do Integrador",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4roch4/create_arkive.git"
+  },
+  "author": "arocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4roch4/create_arkive/issues"
+  },
+  "homepage": "https://github.com/4roch4/create_arkive#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "mssql": "^6.0.1",
+    "uuid": "^3.4.0"
+  }
+}
